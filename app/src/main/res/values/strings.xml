@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CompactLogin</string>
+
+    <!--login-->
+    <string name="login">LOGIN</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="button_login">GO</string>
+    <string name="login_forget_psd">Forgot your password?</string>
+
+    <!--register-->
+    <string name="register">REGISTER</string>
+    <string name="register_username">Username</string>
+    <string name="register_password">Password</string>
+    <string name="register_repeat">Repeat Password</string>
+    <string name="button_register">NEXT</string>
+</resources>
