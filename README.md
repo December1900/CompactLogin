@@ -1,6 +1,5 @@
 ## CompactLogin
-Inspired by [Compact Login](https://www.uplabs.com/posts/compact-login) which is best of 16 July in Material Design by [Boris Borisov]
-(https://www.uplabs.com/noxiousone)
+Inspired by [Compact Login](https://www.uplabs.com/posts/compact-login) which is best of 16 July in Material Design by [Boris Borisov](https://www.uplabs.com/noxiousone)
 
 ![](./screenshots/compactlogin_original.gif)
 
@@ -9,6 +8,5 @@ Inspired by [Compact Login](https://www.uplabs.com/posts/compact-login) which is
 ![](./screenshots/compactlogin.gif)
 
 ## Thanks
-[Boris Borisov](https://www.uplabs.com/noxiousone)
-
+[Boris Borisov](https://www.uplabs.com/noxiousone)  
 [MaterialUp](https://www.uplabs.com/material)
